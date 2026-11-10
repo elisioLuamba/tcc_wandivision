@@ -1,0 +1,2 @@
+conda activate tcc_wandivision
+python trabalho.py
